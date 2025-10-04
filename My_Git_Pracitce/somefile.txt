@@ -6,6 +6,7 @@ This is a test line for patch staging.
 
 Testing git diff output.
 
+<<<<<<< HEAD
 Feature branch
 
 <<<<<<< HEAD
@@ -23,3 +24,9 @@ Line added in conflict-branch
 
 Line added in feature-branch
 Line added in conflict-branch
+=======
+Feature branch
+>>>>>>> parent of 113d04b (Add line in main branch)
+
+
+Line in current branch (main)
