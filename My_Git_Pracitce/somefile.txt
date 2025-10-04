@@ -8,4 +8,11 @@ Testing git diff output.
 
 Feature branch
 
+<<<<<<< HEAD
 Line added in main branch
+=======
+Line added in conflict-branch
+>>>>>>> conflict-branch
+
+Line added in main branch
+Line added in conflict-branch
