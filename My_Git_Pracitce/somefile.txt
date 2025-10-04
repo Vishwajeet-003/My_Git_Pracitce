@@ -9,10 +9,17 @@ Testing git diff output.
 Feature branch
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 Line added in main branch
 =======
 Line added in conflict-branch
 >>>>>>> conflict-branch
 
 Line added in main branch
+=======
+>>>>>>> 73723f7 (Add line in conflict-branch)
+Line added in conflict-branch
+
+
+Line added in feature-branch
 Line added in conflict-branch
