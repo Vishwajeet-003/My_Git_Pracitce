@@ -5,3 +5,5 @@ Test patch staging
 This is a test line for patch staging.
 
 Testing git diff output.
+
+Feature branch
